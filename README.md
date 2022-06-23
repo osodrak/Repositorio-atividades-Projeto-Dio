@@ -1,2 +1,2 @@
-# Repositorio-atividades-Projeto-Dio
+# Repositório para exerc
 Repositório para atividades e Desafios de Projeto Dio
